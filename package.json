@@ -1,0 +1,10 @@
+{
+  "name": "swagger-schema",
+  "version": "0.1.0",
+  "description": "Swagger JSON Schema",
+  "main": "./index.js",
+  "repository": {
+    "url": "https://github.com/dimebox/swagger-schema.git"
+  },
+  "license": "MIT"
+}
